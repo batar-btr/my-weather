@@ -1,0 +1,5 @@
+# Foulders
+
+dist/
+node_modules/
+app/libs/
